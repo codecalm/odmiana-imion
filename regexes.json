@@ -1,6 +1,6 @@
 {
 	"(ef|im|ub|ns|yn|aw|av|ew|lm|ip|yz|is|ys|us|nn|as|es|os|ch|ob|ym|if|lf|of|an|am|on|in|en|em|ks|rp|zm|nz|ez|om|um|rs|un|ób|rm|af|iz|ph)$": "$1ie",
-	"(sz|rz|ik|ol|ej|el|yk|aj|il|yl|al|ck|ul|yc|ij|ah|ng|oj|rl|ak|rk|rg|eg|ig|eh|icz|nia|la)$": "$1u",
+	"(sz|rz|ik|ol|ej|el|yk|aj|il|yl|al|ck|ul|yc|ij|ah|ng|oj|rl|ak|rk|rg|eg|ig|eh|icz)$": "$1u",
 	"(n|r|k|s|u|i|a|y|o|e)t$": "$1cie",
 	"(rd|ld|ad|yd)$": "$1zie",
 	"(n|e|i|u)d$": "$1dzie",
@@ -11,6 +11,8 @@
 	"niec$": "ńcu",
 	"obi$": "obie",
 	"rto$": "rcie",
+	"nia$": "niu",
+	"la$": "lu",
 	"eł$": "le",
 	"ek$": "ku",
 	"tr$": "trze",
